@@ -1,0 +1,4 @@
+1. Khi mở ứng dụng, thì ứng dụng được mặc định là ở trạng thái "Thêm".
+2. Sau khi bấm "Lưu", "Xóa" thì cần phải bấm các lựa chọn "Thêm", "Cập nhật" để thực hiện các chức năng tương ứng.
+3. Định dạng khi nhập ngày sinh là dd/MM/YYYY hoặc d/M/Y (khi này Y = 2000 + Y).
+4. Nhập Caro vào ô "Học lực" sau đó bấm học lực thì sẽ có điều đặc biệt.
